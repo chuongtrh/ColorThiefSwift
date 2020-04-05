@@ -32,3 +32,6 @@ Carthage
 #
 Pods/
 Podfile.lock
+.build
+Tests
+Sources
