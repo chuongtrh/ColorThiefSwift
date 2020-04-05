@@ -21,8 +21,5 @@ let package = Package(
         .target(
             name: "ColorThiefSwift",
             dependencies: []),
-        .testTarget(
-            name: "ColorThiefSwiftTests",
-            dependencies: ["ColorThiefSwift"]),
     ]
 )
